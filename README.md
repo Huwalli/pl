@@ -7,10 +7,10 @@
 
 -系級：科技系二年級
 
-課程筆記區
+* 課程筆記區
 
-作業連結區
+* 作業連結區
 <br />  [HW0302](https://github.com/Huwalli/pl/blob/main/HW1.ipynb)
 
-專題連結區
+* 專題連結區
 

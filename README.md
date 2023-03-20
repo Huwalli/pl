@@ -11,7 +11,7 @@
 
 * 作業連結區
 <br />  [HW0302](https://github.com/Huwalli/pl/blob/main/HW1.ipynb)
-<br />  [HW0323](http://localhost:8889/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/pl/HW1_divina.ipynb)
+<br />  [HW0323](https://github.com/Huwalli/pl/blob/main/.ipynb_checkpoints/HW1_divina-checkpoint.ipynb)
 
 * 專題連結區
 

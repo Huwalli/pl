@@ -19,5 +19,5 @@
 * 專題連結區
 <br />  [影片](https://youtu.be/__vUOA18ID8)
 <br />  [github](https://github.com/PYH1107/PL/blob/main/Untitled1.ipynb)
-<br />  [github 2 ](http://localhost:8889/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/pl/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.ipynb)
+<br />  [github 2 ](https://github.com/Huwalli/pl/blob/main/.ipynb_checkpoints/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A-checkpoint.ipynb)
 

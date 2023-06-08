@@ -18,6 +18,6 @@
 <br />  [HW0518(動畫瘋文字雲)](https://github.com/Huwalli/pl/blob/main/hw5.ipynb)，[medium 2](https://medium.com/@alicehu104210/%E5%88%9D%E5%BF%83%E8%80%85%E5%AD%B8%E7%BF%92%E5%8B%95%E7%95%AB%E7%98%8B%E7%88%AC%E8%9F%B2-%E6%96%87%E5%AD%97%E9%9B%B2-b4ec8df2f49e)
 * 專題連結區
 <br />  [影片](https://youtu.be/__vUOA18ID8)
-<br />  [github](https://github.com/PYH1107/PL/blob/main/Untitled1.ipynb)
+<br />  [github](https://github.com/PYH1107/PL/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C/%E8%8B%B1%E6%96%87%E6%96%B0%E8%81%9E%E8%92%90%E9%9B%86.ipynb)
 <br />  [github 2 ](https://github.com/Huwalli/pl/blob/main/.ipynb_checkpoints/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A-checkpoint.ipynb)
 
